@@ -44,6 +44,18 @@
       <column/>
      </widget>
     </item>
+    <item>
+     <widget class="QPushButton" name="pushButton">
+      <property name="font">
+       <font>
+        <pointsize>11</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>Изменить элемент</string>
+      </property>
+     </widget>
+    </item>
    </layout>
   </widget>
  </widget>
